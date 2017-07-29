@@ -1,0 +1,51 @@
+Project Props 
+---------------
+
+
+
+Installation:
+
+Normal Installation:
+
+1.Paste the data Folder in your game  directory.
+2.Replace the gta.dat included in our files.
+
+
+_______________________
+
+Alternative Installation:
+
+If you got any previous map mods installed try this one.
+
+1.Paste the data Folder in your game directory.
+2.Open gta.dat with notepad or any text editor.
+3.Go to the Ipl loading section.
+4.Search For this line
+     IPL DATA\MAPS\audiozon.ipl
+5.Then paste  This Line After It
+      #Project Props
+IPL DATA\MAPS\Project Props\SApropsAnglePine.ipl
+IPL DATA\MAPS\Project Props\SApropsLV.ipl
+IPL DATA\MAPS\Project Props\SApropsSF.ipl
+6.Then Save.
+7.Finished.
+
+_______________________
+Mod Loader
+
+1.Paste the Data Folder in Mod Loader directory.
+2.Finished
+
+Credits:
+----------
+1.Project Leader:inan.ahammad & asmitgtasa
+2.Mappers:inan.ahammad,Davve95 , Tamal & asmitgtasa.
+3.Bug Trackers: kkjj & L techno/notabuster
+
+
+Thanks For Downloading our mod.For more updates from our project
+Please visit http://gtaforums.com/topic/885393-project-props/
+
+
+
+
