@@ -10,7 +10,7 @@ For Downloads Goto http://fastman92.com/
 2.Garage Extended
 
 Our mod added some extra garages in the city of  San Andreas.So it is necessary to hack the garage limit of SA.
-Note:Only needed if you wanna use the garages.Garage data included in SaGarages.IPL
+Note:Only needed if you wanna use the garages.
 
 For Downloads FLA Comportable build got to.
 https://github.com/goodidea82/GarageExtender
@@ -40,11 +40,9 @@ If you got any previous map mods installed try this one.
       #Project Props
 IPL DATA\MAPS\Project Props\SApropsAnglePine.ipl
 IPL DATA\MAPS\Project Props\SApropsLV.ipl
-IPL DATA\MAPS\Project Props\SApropsSF.ipl
-6.If you want garage functionality add this line after those.
-IPL Data\Maps\Project Props\SaGarages.IPL    
-7.Then Save.
-8.Finished.
+IPL DATA\MAPS\Project Props\SapropsLS.IPL
+6.Then Save.
+7.Finished.
 
 _______________________
 Mod Loader
