@@ -1,4 +1,5 @@
-Project Details
+
+# Project Details
 Project Props is a mod project which seeks to provide the 3D era GTA San Andreas a little touch of realism by increasing map details via adding objects.It's sad that R* couldn't give a high details to these maps because of the technical limitations of consoles of that time , PS/PS2 and ended up  leaving the empty map in some parts. The purpose of this mod is to simply add as much as possible of cover these empty spaces, giving more life to the game & making it realistic & immersed.
 
 ## Our Project Team
