@@ -1,5 +1,5 @@
 # Project Props
-Project Props is a mod project which plans to give the 3D era GTA games Like GTA San Andreas, Vice City & Liberty City a little touch of realism by increasing map details by adding Props in those maps. It's sad that Rockstar couldn't give a high details to these maps because of the technical's limitations of consoles of that time PS2/X-Box. But in the HD era games, they filled all the empty space with many props. As a result the HD era games are looking so realistic & immersed.In this regard the 3rd era games are lacking too much. Vice City & Liberty City got only a few props, San Andreas got props but still the game lacks cause there are many empty grounds. So the main aim of this project is to make the games realastic by adding as many props as possible in these games.
+**Project Props is a mod project which seeks to provide the 3D era GTA San Andreas a little touch of realism by increasing map details via adding objects.It's sad that R* couldn't give a high details to these maps because of the technical limitations of consoles of that time , PS/PS2 and ended up leaving the empty map in some parts. The purpose of this mod is to simply add as much as possible of cover these empty spaces, giving more life to the game & making it realistic & immersed.** 
 
 #  Supported Games
 
