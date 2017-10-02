@@ -41,6 +41,7 @@ If you got any previous map mods installed try this one.
 IPL DATA\MAPS\Project Props\SApropsAnglePine.ipl
 IPL DATA\MAPS\Project Props\SApropsLV.ipl
 IPL DATA\MAPS\Project Props\SapropsSF.IPL
+IPL DATA\MAPS\Project Props\SApropsLS.ipl
 6.Then Save.
 7.Finished.
 
