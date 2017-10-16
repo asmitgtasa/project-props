@@ -25,6 +25,7 @@ Normal Installation:
 2.Replace the gta.dat included in our files.
 
 
+Note:Not for any mod projects which has gta.dat modified.For example SAxVCxLC.
 _______________________
 
 Alternative Installation:
