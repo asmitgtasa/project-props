@@ -74,7 +74,7 @@ Mod Loader
 Credits:
 ----------
 1.Project Leader:inan.ahammad & asmitgtasa
-2.Mappers:inan.ahammad,Davve95 , Tamal & asmitgtasa.
+2.Mappers:inan.ahammad,Davve95 , Tamal , asmitgtasa , Tiago_The_Gamer96 & Aaronre99.
 3.Bug Trackers: kkjj & L techno/notabuster
 
 
