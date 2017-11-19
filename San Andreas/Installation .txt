@@ -7,6 +7,25 @@ Requirements
 
 For Downloads Goto http://fastman92.com/
 
+***FLA Configuration***
+[DYNAMIC LIMITS]
+
+; PtrNode Singles (70000)
+PtrNode Singles = 205000
+
+; PtrNode Doubles (3200)
+PtrNode Doubles = 150500
+
+[IPL]
+; IPL : inst section, buildings (13000)
+Buildings = 125000
+
+; IPL: inst section, dummies (2500)
+Dummies = 6000
+
+; IPL : inst entries per file (4096)
+Inst entries per file = 8192
+
 2.Garage Extended
 
 Our mod added some extra garages in the city of  San Andreas.So it is necessary to hack the garage limit of SA.
@@ -39,7 +58,7 @@ If you got any previous map mods installed try this one.
      IPL DATA\MAPS\audiozon.ipl
 5.Then paste  This Line After It
       #Project Props
-IPL DATA\MAPS\Project Props\SApropsAnglePine.ipl
+IPL DATA\MAPS\Project Props\SApropsCS.ipl
 IPL DATA\MAPS\Project Props\SApropsLV.ipl
 IPL DATA\MAPS\Project Props\SapropsSF.IPL
 IPL DATA\MAPS\Project Props\SApropsLS.ipl
