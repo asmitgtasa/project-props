@@ -15,7 +15,7 @@ Project Props is a mod project which seeks to provide the 3D era GTA San Andreas
 2.Davve95
 3 Aaronre99
 4.Tiago_The_Gamer96
-5.Tamal
+5.Tk armakor
 6.asmitgta sa
 
 ### Bug Tracers
