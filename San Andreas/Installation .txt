@@ -3,35 +3,19 @@ Project Props
 
 Requirements
 ---------------------------
-1.Limit Adjusters.I suggest Fastman92 Limit Adjuster.
+1.Limit Adjusters.I suggest Open Limit Adjuster.
 
-For Downloads Goto http://fastman92.com/
+For Downloads Goto https://github.com/ThirteenAG/limit_adjuster_gta3vcsa/releases
 
-***FLA Configuration***
-[DYNAMIC LIMITS]
+***You dont need to configure anything.Just leave it as it is.***
 
-; PtrNode Singles (70000)
-PtrNode Singles = 205000
-
-; PtrNode Doubles (3200)
-PtrNode Doubles = 150500
-
-[IPL]
-; IPL : inst section, buildings (13000)
-Buildings = 125000
-
-; IPL: inst section, dummies (2500)
-Dummies = 6000
-
-; IPL : inst entries per file (4096)
-Inst entries per file = 8192
 
 2.Garage Extended
 
 Our mod added some extra garages in the city of  San Andreas.So it is necessary to hack the garage limit of SA.
 Note:Only needed if you wanna use the garages.
 
-For Downloads FLA Comportable build got to.
+For Downloads LA Comportable build got to.
 https://github.com/goodidea82/GarageExtender
 
 
@@ -62,8 +46,12 @@ IPL DATA\MAPS\Project Props\SApropsCS.ipl
 IPL DATA\MAPS\Project Props\SApropsLV.ipl
 IPL DATA\MAPS\Project Props\SapropsSF.IPL
 IPL DATA\MAPS\Project Props\SApropsLS.ipl
-6.Then Save.
-7.Finished.
+6.Again search for line 
+         IMG MODELS\CUTSCENE.IMG
+7.Then put this line.
+         IDE DATA\MAPS\PROJECT PROPS\PROJECT PROPS.IDE
+8.Then Save.
+9.Finished.
 
 _______________________
 Mod Loader
